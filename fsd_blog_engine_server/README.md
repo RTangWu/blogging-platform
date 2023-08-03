@@ -9,7 +9,12 @@ npm install
 ```sh
 npm run dev
 ```
+### blog Account
 
+```sh
+Email:admin@admin.com
+password:
+```
 ### Compile and Minify for Production
 
 ```sh
